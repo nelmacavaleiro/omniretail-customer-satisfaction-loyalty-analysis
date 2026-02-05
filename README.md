@@ -51,9 +51,11 @@ Interactive slicers allow filtering by **state, age group, and gender** for deep
 - The dataset was provided by the challenge organisers and is used strictly for analytical and educational purposes.
 - The dashboard represents an independent analytical interpretation of the challenge brief.
 
-# Author
+## Author
 
 **Nelma Cavaleiro**  
-Data Analytics & Project Management  
+Project Management | Data Analytics | MSc Information Systems Management  
+
 GitHub: https://github.com/nelmacavaleiro  
-LinkedIn: www.linkedin.com/in/nelma-cavaleiro
+LinkedIn: https://www.linkedin.com/in/nelma-cavaleiro
+
